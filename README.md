@@ -6,8 +6,7 @@ The primary objective of the website was to facilitate database updates, review 
 ## Dependencies
 XAMPP V3.3.0
 
-![643310](https://github.com/EZHsu/Managerial_Website/assets/101862861/1149e8b1-545a-42b0-8901-c59dc6142099)
-
+![643310](https://github.com/EZHsu/Managerial_Website/assets/101862861/b917c427-7a93-4c93-b8d7-5bbf77dd50ab)
 
 ## Build
 `book.sql` included the test database data and mysql scripts for building the database in PHPMyAdmin System.
@@ -37,33 +36,32 @@ There are 8 PHP pages that are written for the user interface, or the website.
 
 1.Execute XAMPP's Apache and MySQL
 
-![螢幕擷取畫面 2023-09-08 180718](https://github.com/EZHsu/Managerial_Website/assets/101862861/da8dc5a9-a47f-4654-b372-bdfa506388b8)
+![螢幕擷取畫面 2023-09-08 180718](https://github.com/EZHsu/Managerial_Website/assets/101862861/e32ab5f7-eb7d-4877-a063-a6fd7e53659d)
 
 2. Move everything into `htdoc` folder in `C:\xampp`
 
-![螢幕擷取畫面 2023-09-08 180858](https://github.com/EZHsu/Managerial_Website/assets/101862861/598aeca2-135a-44f2-97f6-0048dcca90d2)
+![螢幕擷取畫面 2023-09-08 180858](https://github.com/EZHsu/Managerial_Website/assets/101862861/d985de49-2f60-423e-aacf-315da307356c)
 
 3. Open Localhost through web browser
 
-![螢幕擷取畫面 2023-09-08 181548](https://github.com/EZHsu/Managerial_Website/assets/101862861/e95302e4-be3f-49ba-9b9c-8f20f1aa6516)
-
+![螢幕擷取畫面 2023-09-08 181548](https://github.com/EZHsu/Managerial_Website/assets/101862861/af77af69-d7c1-42e3-96af-66acf6f755dd)
 
 4. Open the Files
 
-![螢幕擷取畫面 2023-09-08 181725](https://github.com/EZHsu/Managerial_Website/assets/101862861/3d2b6830-e32a-4033-a906-2cb59183759c)
+![螢幕擷取畫面 2023-09-08 181725](https://github.com/EZHsu/Managerial_Website/assets/101862861/74432f3b-d88a-4eca-b7e5-753ab4874a2a)
 
 ## Expected Results
 Login Page
 ##
-![螢幕擷取畫面 2023-09-08 181725](https://github.com/EZHsu/Managerial_Website/assets/101862861/8b38129f-e2f6-42e4-a4dc-237b640925f5)
+![螢幕擷取畫面 2023-09-08 181725](https://github.com/EZHsu/Managerial_Website/assets/101862861/49640284-ba6c-450b-8feb-5da3e4b56ad5)
 ##
 Other Pages
 ##
-![螢幕擷取畫面 2023-09-08 181838](https://github.com/EZHsu/Managerial_Website/assets/101862861/bcc23e0c-2054-4681-be46-524bbc5b89c9)
+![螢幕擷取畫面 2023-09-08 181838](https://github.com/EZHsu/Managerial_Website/assets/101862861/53cdb2b9-9ce7-4181-80b2-f9e4eba17888)
 ##
 Database management page through XMAPP>MySQL>Admin
 ##
-![螢幕擷取畫面 2023-09-08 182033](https://github.com/EZHsu/Managerial_Website/assets/101862861/a94187db-8ee9-45d3-b420-80a1d2b3f468)
+![螢幕擷取畫面 2023-09-08 182033](https://github.com/EZHsu/Managerial_Website/assets/101862861/7b535d39-5a39-4a50-b500-3e36cc76648f)
 ##
-![螢幕擷取畫面 2023-09-08 182123](https://github.com/EZHsu/Managerial_Website/assets/101862861/9d80f3bd-d577-4225-a47e-b3d90fcb12bc)
+![螢幕擷取畫面 2023-09-08 182123](https://github.com/EZHsu/Managerial_Website/assets/101862861/a36f9bbf-d9ed-490e-b9a0-167d70a0a236)
 ##
